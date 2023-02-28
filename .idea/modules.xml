@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/estrutura-de-dados/Projetos/Projetos.iml" filepath="$PROJECT_DIR$/estrutura-de-dados/Projetos/Projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estudos-java-developer.iml" filepath="$PROJECT_DIR$/.idea/estudos-java-developer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-de-dados/projetos-pilhas/projetos-pilhas.iml" filepath="$PROJECT_DIR$/estrutura-de-dados/projetos-pilhas/projetos-pilhas.iml" />
+    </modules>
+  </component>
+</project>
